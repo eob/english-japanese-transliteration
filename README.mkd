@@ -1,0 +1,6 @@
+Japanese-English Transliteration
+================================
+
+This is the project repository for a Japanese-English Transliteration model
+done as a final project for Prof. Berwick's MIT 6.863 course.
+

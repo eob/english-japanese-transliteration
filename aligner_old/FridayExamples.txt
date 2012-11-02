@@ -1,0 +1,76 @@
+eyeline,アイライン,A I RA I N,AY L AY N,AI RA I N,AY L AY N
+
+A  I RA I N
+AY L AY N
+
+1 L+R -> merge(A I,AY)    -> [AI,AY]
+2 N+N -> merge(RA A,L AY) -> [RA A,L AY]
+3 $+$ -> merge(N,N)       -> [N,N]
+
+D O  KA 
+D OW R 
+
+Map letter to letter
+Then Consonant to consonant
+
+map[:e_phoneme_prefix] => [:j_first_letter]
+
+-----
+
+color image,カラーイメージ,KA RA - I ME - ZI
+
+KA RA - I ME - ZI
+K AH L ER IH M IX JH 
+
+1 KA+A -> 
+2 RA+L -> merge(KA, K AH) -> [K A,K AH]
+3 ME+M -> merge(RA - I,L ER IH) -> [RA - I,L ER IH]
+4 $+$  -> 
+
+KA RE N DA KU RO . KU
+K AE L IX N D ER K L AA K AX
+
+1 KA+K
+2 RE+L -> merge(KA, K AE) -> [K A,K AE]
+3 N+N  -> merge(RE, L IX) -> [R E,L IX]
+4 D+DA -> merge(N,N)
+5 KU+K -> merge(DA, D ER) -> [D A,D ER]
+6 RO+L -> merge(KU, K)
+7 KU+K -> merge(RO ., L AA) -> [RO ., L AA]
+
+
+RA I TE i N GU BI yu - RO -
+R AY T IX NG B Y UW  R OW 
+
+1 RA+R
+2 TE+T -> merge(RA I,R AY)
+3 N+NG -> merge(TE i,T IX)
+4 BI+B -> merge(N GU, NG) -> [NGU, NG]
+5 RO+R -> merge(BI yu -,B Y UW)
+6 $+$  -> merge(RO -, R OW)
+
+RA I ZI N GU ZI e NE RE - SI yo N
+R AY Z IX NG JH EH N AX R EY SH IX N 
+
+1 RA+R
+2 ZI+Z -> merge(RA I,R AY)
+3 N+NG -> merge(ZI,Z IX) -> Z I,Z IX
+4 NE+N -> merge(N GU ZI e, NG JH EH) 
+* just merge something.
+  -> [NGU ZI e,NG JH EH]
+5 RE+R -> merge(NE, N AX)
+6 SI+SH -> merge(RE -, R EY) 
+7 N+N
+
+** Greedy rule.
+When we need to merge:
+1) First look if there is only one possible way to split or combine. If that doesn't work
+2) x 
+
+
+
+--- potential heuristics to improve
+-----------------------------------------------
+- C+C and V+V merging rule weighted better than C+V or V+C
+- change SI->SHI, ZI->JI, etc for better representation
+- change . KA to .KA

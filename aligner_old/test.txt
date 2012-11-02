@@ -1,0 +1,7 @@
+artisan,アーチザン,A - TI ZA N,AA R T IX S AE N,A A- T I Z A N,AA R T IX S AE N
+arbiter,アービタ,A - BI TA,AA R B AX T ER,A A- B I T A,AA R B AX T ER
+ice,アイス,A I SU,AY S,AI SU,AY S
+isotype,アイソタイプ,A I SO TA I PU,AY S AX T AY P AX,AI S O TA I P U,AY S AX T AY P AX
+item,アイテム,A I TE MU,AY T AX M,AI T E MU,AY T AX M
+idle cost,アイドルコスト,A I DO RU KO SU TO,AY D AX L K AO S T AX,AI D O RU K O SU T O,AY D AX L K AO S T AX
+eyeline,アイライン,A I RA I N,AY L AY N,AI RA I N,AY L AY N

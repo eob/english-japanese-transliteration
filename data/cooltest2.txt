@@ -1,0 +1,32 @@
+Using N-Gram Order 2
+[Start] Reading dictionary
+[ End ] Reading dictionary
+[Start] Aligning Phoneme Sequences
+[.....] Starting with 17798 sequences
+[.....] Success: 15233, Error: 2565, Error Rate: 0.168384
+[ End ] Aligning Phoneme Sequences
+[Start] Converting dictionary to 2-Grams
+[ End ] Converting dictionary to 2-Grams
+[Start] Training HMM
+[ End ] Training HMM
+berwick -> B ER W IX K IX 
+ -> BA-ZI.KU
+
+twitter -> T W IH T ER 
+ -> TOUITA
+barack obama -> B EH R AX K AX B AA M AX 
+ -> BERAKABAMA
+hillary clinton -> HH IH L EH R IY K L IH N T AX N 
+ -> HIRERI-KURInTOn
+simpsons -> S IH M P S AX N Z 
+ -> SInPUSIyonZU
+microsoft -> M AY K R OW S AO F T AX 
+ -> MAIKUROSOHUTO
+katrina -> K AX T R IY N AX 
+ -> KATORINA
+eric schmidt -> EH R IH K SH M IH T IX 
+ -> EREKUSIyuMI.TO
+california -> K AE L AX F OW R N Y AX 
+ -> KARAHUo-NIA
+miami beach -> M AY AE M IY B IY CH 
+ -> MIAM-BI-TI

@@ -1,0 +1,26 @@
+﻿isotype,アイソタイプ,A I SO TA I PU
+﻿isotope,アイソトープ,A I SO TO - PU
+﻿isotonic,アイソトニック,A I SO TO NI tsu KU
+﻿isoparametric,アイソパラメトリック,A I SO PA RA ME TO RI tsu KU
+﻿isometric,アイソメトリック,A I SO ME TO RI tsu KU
+﻿isometrics,アイソメトリックス,A I SO ME TO RI tsu KU SU
+﻿isolation,アイソレーション,A I SO RE - SI yo N
+﻿academia,アカデミー,A KA DE MI -
+﻿academicism,アカデミシズム,A KA DE MI SI ZU MU
+﻿academician,アカデミシャン,A KA DE MI SI ya N
+﻿academism,アカデミズム,A KA DE MI ZU MU
+﻿academic,アカデミック,A KA DE MI tsu KU
+﻿acoustic,アコースティック,A KO - SU TE i tsu KU
+﻿aquatron,アクアトロン,A KU A TO RO N
+﻿aquanaut,アクアノート,A KU A NO - TO
+﻿aquamarine,アクアマリン,A KU A MA RI N
+﻿aqualung,アクアルング,A KU A RU N GU
+﻿accident,アクシデント,A KU SI DE N TO
+﻿action,アクション,A KU SI yo N
+﻿action star,アクションスター,A KU SI yo N SU TA -
+﻿assert,アサート,A SA - TO
+﻿aside,アサイド,A SA I DO
+﻿assign,アサイン,A SA I N
+﻿assignment,アサインメント,A SA I N ME N TO
+﻿arbiter,アービタ,A - BI TA
+﻿ability,アビリティー,A BI RI TE i -

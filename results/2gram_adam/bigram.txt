@@ -1,0 +1,447 @@
+Using N-Gram Order 1
+[Start] Reading dictionary
+[ End ] Reading dictionary
+[Start] Aligning Phoneme Sequences
+[.....] Starting with 17798 sequences
+[.....] Success: 15233, Error: 2565, Error Rate: 0.168384
+[ End ] Aligning Phoneme Sequences
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.776809
+[.....] Wordwise Precision: 0.134034
+[.....] Buckets:
+[.....] 0 to 10 Percent: 1
+[.....] 10 to 20 Percent: 4
+[.....] 20 to 30 Percent: 7
+[.....] 30 to 40 Percent: 12
+[.....] 40 to 50 Percent: 22
+[.....] 50 to 60 Percent: 49
+[.....] 60 to 70 Percent: 100
+[.....] 70 to 80 Percent: 142
+[.....] 80 to 90 Percent: 227
+[.....] 90 to 100 Percent: 197
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.790549
+[.....] Wordwise Precision: 0.148489
+[.....] Buckets:
+[.....] 0 to 10 Percent: 0
+[.....] 10 to 20 Percent: 1
+[.....] 20 to 30 Percent: 3
+[.....] 30 to 40 Percent: 9
+[.....] 40 to 50 Percent: 19
+[.....] 50 to 60 Percent: 43
+[.....] 60 to 70 Percent: 108
+[.....] 70 to 80 Percent: 141
+[.....] 80 to 90 Percent: 236
+[.....] 90 to 100 Percent: 201
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.772753
+[.....] Wordwise Precision: 0.116951
+[.....] Buckets:
+[.....] 0 to 10 Percent: 3
+[.....] 10 to 20 Percent: 5
+[.....] 20 to 30 Percent: 7
+[.....] 30 to 40 Percent: 11
+[.....] 40 to 50 Percent: 17
+[.....] 50 to 60 Percent: 56
+[.....] 60 to 70 Percent: 99
+[.....] 70 to 80 Percent: 151
+[.....] 80 to 90 Percent: 229
+[.....] 90 to 100 Percent: 183
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.765544
+[.....] Wordwise Precision: 0.127464
+[.....] Buckets:
+[.....] 0 to 10 Percent: 2
+[.....] 10 to 20 Percent: 6
+[.....] 20 to 30 Percent: 7
+[.....] 30 to 40 Percent: 8
+[.....] 40 to 50 Percent: 27
+[.....] 50 to 60 Percent: 64
+[.....] 60 to 70 Percent: 104
+[.....] 70 to 80 Percent: 150
+[.....] 80 to 90 Percent: 205
+[.....] 90 to 100 Percent: 188
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.771578
+[.....] Wordwise Precision: 0.120894
+[.....] Buckets:
+[.....] 0 to 10 Percent: 0
+[.....] 10 to 20 Percent: 3
+[.....] 20 to 30 Percent: 9
+[.....] 30 to 40 Percent: 15
+[.....] 40 to 50 Percent: 27
+[.....] 50 to 60 Percent: 54
+[.....] 60 to 70 Percent: 93
+[.....] 70 to 80 Percent: 142
+[.....] 80 to 90 Percent: 233
+[.....] 90 to 100 Percent: 185
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.778350
+[.....] Wordwise Precision: 0.130092
+[.....] Buckets:
+[.....] 0 to 10 Percent: 2
+[.....] 10 to 20 Percent: 2
+[.....] 20 to 30 Percent: 7
+[.....] 30 to 40 Percent: 10
+[.....] 40 to 50 Percent: 20
+[.....] 50 to 60 Percent: 59
+[.....] 60 to 70 Percent: 96
+[.....] 70 to 80 Percent: 135
+[.....] 80 to 90 Percent: 230
+[.....] 90 to 100 Percent: 200
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.774607
+[.....] Wordwise Precision: 0.139290
+[.....] Buckets:
+[.....] 0 to 10 Percent: 4
+[.....] 10 to 20 Percent: 2
+[.....] 20 to 30 Percent: 4
+[.....] 30 to 40 Percent: 18
+[.....] 40 to 50 Percent: 26
+[.....] 50 to 60 Percent: 51
+[.....] 60 to 70 Percent: 93
+[.....] 70 to 80 Percent: 141
+[.....] 80 to 90 Percent: 233
+[.....] 90 to 100 Percent: 189
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.776656
+[.....] Wordwise Precision: 0.147175
+[.....] Buckets:
+[.....] 0 to 10 Percent: 2
+[.....] 10 to 20 Percent: 1
+[.....] 20 to 30 Percent: 8
+[.....] 30 to 40 Percent: 10
+[.....] 40 to 50 Percent: 23
+[.....] 50 to 60 Percent: 63
+[.....] 60 to 70 Percent: 97
+[.....] 70 to 80 Percent: 147
+[.....] 80 to 90 Percent: 202
+[.....] 90 to 100 Percent: 208
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.783842
+[.....] Wordwise Precision: 0.134034
+[.....] Buckets:
+[.....] 0 to 10 Percent: 1
+[.....] 10 to 20 Percent: 3
+[.....] 20 to 30 Percent: 5
+[.....] 30 to 40 Percent: 10
+[.....] 40 to 50 Percent: 22
+[.....] 50 to 60 Percent: 54
+[.....] 60 to 70 Percent: 86
+[.....] 70 to 80 Percent: 145
+[.....] 80 to 90 Percent: 230
+[.....] 90 to 100 Percent: 205
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.768647
+[.....] Wordwise Precision: 0.120894
+[.....] Buckets:
+[.....] 0 to 10 Percent: 3
+[.....] 10 to 20 Percent: 4
+[.....] 20 to 30 Percent: 7
+[.....] 30 to 40 Percent: 11
+[.....] 40 to 50 Percent: 24
+[.....] 50 to 60 Percent: 66
+[.....] 60 to 70 Percent: 89
+[.....] 70 to 80 Percent: 162
+[.....] 80 to 90 Percent: 212
+[.....] 90 to 100 Percent: 183
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.774672
+[.....] Wordwise Precision: 0.144547
+[.....] Buckets:
+[.....] 0 to 10 Percent: 2
+[.....] 10 to 20 Percent: 5
+[.....] 20 to 30 Percent: 8
+[.....] 30 to 40 Percent: 14
+[.....] 40 to 50 Percent: 17
+[.....] 50 to 60 Percent: 58
+[.....] 60 to 70 Percent: 105
+[.....] 70 to 80 Percent: 145
+[.....] 80 to 90 Percent: 195
+[.....] 90 to 100 Percent: 212
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.774365
+[.....] Wordwise Precision: 0.145861
+[.....] Buckets:
+[.....] 0 to 10 Percent: 3
+[.....] 10 to 20 Percent: 5
+[.....] 20 to 30 Percent: 9
+[.....] 30 to 40 Percent: 13
+[.....] 40 to 50 Percent: 28
+[.....] 50 to 60 Percent: 49
+[.....] 60 to 70 Percent: 92
+[.....] 70 to 80 Percent: 140
+[.....] 80 to 90 Percent: 207
+[.....] 90 to 100 Percent: 215
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.779925
+[.....] Wordwise Precision: 0.130092
+[.....] Buckets:
+[.....] 0 to 10 Percent: 0
+[.....] 10 to 20 Percent: 2
+[.....] 20 to 30 Percent: 3
+[.....] 30 to 40 Percent: 11
+[.....] 40 to 50 Percent: 26
+[.....] 50 to 60 Percent: 61
+[.....] 60 to 70 Percent: 98
+[.....] 70 to 80 Percent: 133
+[.....] 80 to 90 Percent: 230
+[.....] 90 to 100 Percent: 197
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.772570
+[.....] Wordwise Precision: 0.132720
+[.....] Buckets:
+[.....] 0 to 10 Percent: 0
+[.....] 10 to 20 Percent: 4
+[.....] 20 to 30 Percent: 9
+[.....] 30 to 40 Percent: 8
+[.....] 40 to 50 Percent: 19
+[.....] 50 to 60 Percent: 62
+[.....] 60 to 70 Percent: 114
+[.....] 70 to 80 Percent: 135
+[.....] 80 to 90 Percent: 227
+[.....] 90 to 100 Percent: 183
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.775257
+[.....] Wordwise Precision: 0.147175
+[.....] Buckets:
+[.....] 0 to 10 Percent: 1
+[.....] 10 to 20 Percent: 2
+[.....] 20 to 30 Percent: 7
+[.....] 30 to 40 Percent: 13
+[.....] 40 to 50 Percent: 27
+[.....] 50 to 60 Percent: 56
+[.....] 60 to 70 Percent: 105
+[.....] 70 to 80 Percent: 134
+[.....] 80 to 90 Percent: 207
+[.....] 90 to 100 Percent: 209
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.772101
+[.....] Wordwise Precision: 0.136662
+[.....] Buckets:
+[.....] 0 to 10 Percent: 0
+[.....] 10 to 20 Percent: 1
+[.....] 20 to 30 Percent: 8
+[.....] 30 to 40 Percent: 14
+[.....] 40 to 50 Percent: 25
+[.....] 50 to 60 Percent: 63
+[.....] 60 to 70 Percent: 104
+[.....] 70 to 80 Percent: 145
+[.....] 80 to 90 Percent: 209
+[.....] 90 to 100 Percent: 192
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.773146
+[.....] Wordwise Precision: 0.131406
+[.....] Buckets:
+[.....] 0 to 10 Percent: 5
+[.....] 10 to 20 Percent: 6
+[.....] 20 to 30 Percent: 8
+[.....] 30 to 40 Percent: 6
+[.....] 40 to 50 Percent: 18
+[.....] 50 to 60 Percent: 63
+[.....] 60 to 70 Percent: 90
+[.....] 70 to 80 Percent: 139
+[.....] 80 to 90 Percent: 224
+[.....] 90 to 100 Percent: 202
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.778202
+[.....] Wordwise Precision: 0.134034
+[.....] Buckets:
+[.....] 0 to 10 Percent: 2
+[.....] 10 to 20 Percent: 2
+[.....] 20 to 30 Percent: 5
+[.....] 30 to 40 Percent: 11
+[.....] 40 to 50 Percent: 26
+[.....] 50 to 60 Percent: 47
+[.....] 60 to 70 Percent: 105
+[.....] 70 to 80 Percent: 136
+[.....] 80 to 90 Percent: 224
+[.....] 90 to 100 Percent: 203
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.776020
+[.....] Wordwise Precision: 0.134034
+[.....] Buckets:
+[.....] 0 to 10 Percent: 2
+[.....] 10 to 20 Percent: 2
+[.....] 20 to 30 Percent: 3
+[.....] 30 to 40 Percent: 11
+[.....] 40 to 50 Percent: 30
+[.....] 50 to 60 Percent: 56
+[.....] 60 to 70 Percent: 100
+[.....] 70 to 80 Percent: 137
+[.....] 80 to 90 Percent: 218
+[.....] 90 to 100 Percent: 202
+[ End ] Cross Validating Data
+[Start] Cross Validating Data
+[.....] Creating training and testing data sets
+[Start] Converting training set to 1-Grams
+[ End ] Converting training set to 1-Grams
+[Start] Training HMM
+[ End ] Training HMM
+[.....] Preparing test set
+[.....] Testing
+[.....] Average Score: 0.768529
+[.....] Wordwise Precision: 0.145861
+[.....] Buckets:
+[.....] 0 to 10 Percent: 1
+[.....] 10 to 20 Percent: 7
+[.....] 20 to 30 Percent: 7
+[.....] 30 to 40 Percent: 14
+[.....] 40 to 50 Percent: 18
+[.....] 50 to 60 Percent: 63
+[.....] 60 to 70 Percent: 120
+[.....] 70 to 80 Percent: 121
+[.....] 80 to 90 Percent: 212
+[.....] 90 to 100 Percent: 198
+[ End ] Cross Validating Data
