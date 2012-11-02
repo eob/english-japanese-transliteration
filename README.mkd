@@ -21,7 +21,7 @@ OSX as well.
 Running the Code
 ================
 
-The dictionary file is already prebuild (data/dictionary.txt) containing
+The dictionary file is already prebuilt (data/dictionary.txt) containing
 4-tuples of English, Katakana, Japanese Phonemes, and English Phonemes. 
 
 The main file to run is aligner/hmm.py. Inspect the main() method of hmm.py to
