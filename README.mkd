@@ -4,5 +4,29 @@ English to Japanese Transliteration Model
 This is the project repository for a Japanese-English Transliteration model
 done as a final project for [Professor Robert
 Berwick](http://bcs.mit.edu/people/berwick.html)'s [6.863
-course](http://web.mit.edu/6.863/).
+course](http://web.mit.edu/6.863/) in 2009.
 
+Dependencies
+------------
+
+* Python
+* NLTK 0.9.8 or 0.9.8
+
+Note: NLTK 0.9.9, which was the current version when this project was written,
+contained a bug that prevented it from working.
+
+If you want to re-generate the dictionary, you'll need XCode and a Mac running
+OSX as well.
+
+Running the Code
+================
+
+The dictionary file is already prebuild (data/dictionary.txt) containing
+4-tuples of English, Katakana, Japanese Phonemes, and English Phonemes. 
+
+The main file to run is aligner/hmm.py. Inspect the main() method of hmm.py to
+see the different ways you can run the script. 
+
+Running the version provided will result in a cross-validation test using
+2-Grams. (Note that the ngramorder variable you see in hmm.py is one less than
+the N of the N-Grams you are running with..)
