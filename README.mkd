@@ -2,5 +2,7 @@ Japanese-English Transliteration
 ================================
 
 This is the project repository for a Japanese-English Transliteration model
-done as a final project for Prof. Berwick's MIT 6.863 course.
+done as a final project for [Professor Robert
+Berwick](http://bcs.mit.edu/people/berwick.html)'s [6.863
+course](http://web.mit.edu/6.863/).
 
