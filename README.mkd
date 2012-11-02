@@ -1,5 +1,5 @@
-Japanese-English Transliteration
-================================
+English to Japanese Transliteration Model
+=========================================
 
 This is the project repository for a Japanese-English Transliteration model
 done as a final project for [Professor Robert
